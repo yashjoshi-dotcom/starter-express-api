@@ -1,6 +1,3 @@
-#print {
-    display: block;
-  }
-  #screen {
-    display: none;
-  }
+body {
+  background-color: yellow;
+}
